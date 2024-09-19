@@ -1,18 +1,57 @@
-## Getting Started
+<h1 align="center"> Ecommerce </h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-## Folder Structure
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-The workspace contains two folders by default, where:
+<br>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🚀 Tecnologias
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Java
 
-## Dependency Management
+## 💻 Projeto
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Esse repósitorio foi criado na intenção de acompanhar meu apredizado na liguagem Java.
+
+## ⚠ Como usar
+
+Para copiar e executar essa aplicação, você precisa de três pré-requisitos: [Git](https://git-scm.com), [Visual Studio Code](https://code.visualstudio.com/download) + [Java in Vs Code](https://code.visualstudio.com/docs/java/java-tutorial) intalados no seu computador.
+
+No terminal, digite os comandos a seguir:
+
+### Baixar e instalar o projeto
+
+```bash
+# Clonar esse repositório
+$ git clone https://github.com/Aniashi/exercicios-java.git
+
+# Vá para o ropositório
+$ cd exercicio-java
+
+# Instale as dependências
+$ npm install
+```
+
+### Executar o Mobile
+
+```bash
+# Execute em outro terminal (dentro da pasta ecommerce)
+$ npx expo
+```
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Aniashi
